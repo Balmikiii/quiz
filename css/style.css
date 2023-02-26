@@ -1,0 +1,50 @@
+body{
+    background-color:#f7f7f7 !important;
+}
+.our-info{
+    /* background-color: #f92d45 !important; */
+    background-color: #142457 !important;
+}
+.left-side{
+    margin: 0px !important;
+}
+.main-nav{
+    background-color:#f92d45 !important ;
+    padding: 0px !important;
+}
+.main-nav a, li a{
+    color: #ffff !important;
+    font-size: 18px;
+}
+.main-nav .dropdown-menu a{
+    color: #f92d45 !important;
+}
+.balmiki-theme{
+    background-color: #142457 !important;
+}
+.welcome h1{
+    color:#f92d45;
+}
+.welcome p{
+    font-size: 20px;
+}
+.welcome a{
+    background-color:#f92d45;
+    border: 1px solid #000;
+    width: 200px;
+    border-radius: 25px;
+    height: 40px;
+}
+.welcome a:hover{
+    background-color:#142457;
+    border: 1px solid #000;
+    width: 200px;
+    border-radius: 25px;
+    height: 40px;
+}
+.welcome img{
+    width: 100%;
+    height: auto;
+    border: 2px solid #000;
+    border-radius: 25px;
+}
